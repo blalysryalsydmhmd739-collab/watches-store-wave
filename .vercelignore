@@ -1,0 +1,14 @@
+# Source photos (copies live in public/photos for deploy)
+/photos/
+
+# Dev previews and reference crops (not used at runtime)
+/public/photos/preview/
+/public/images/
+
+# Design reference files
+/refrance/
+
+# Local dev artifacts
+/.next/
+/node_modules/
+*.tsbuildinfo
